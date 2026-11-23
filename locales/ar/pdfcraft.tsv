@@ -3868,3 +3868,171 @@ document scrollbar width	Wide	عريض
 	This document's script is asking	نص هذا المستند البرمجي يطلب
 	Document: {name}	المستند: {name}
 	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	هذا الطلب صادر عن المستند، لا عن PdfCraft. لا تُدخل كلمة مرور إلا إذا كنت تثق بهذا المستند.
+	A new version is ready	نسخة جديدة جاهزة
+	Cancel download	إلغاء التنزيل
+	Check now	تحقّق الآن
+	Checking…	جارٍ التحقّق…
+	Couldn't reach the update channel. Check the connection and try again.	تعذّر الوصول إلى قناة التحديث. تحقّق من الاتصال ثم أعد المحاولة.
+	Details and install	التفاصيل والتثبيت
+	Download the update	تنزيل التحديث
+	Downloaded and checked. Ready to install.	نُزِّل وتُحقِّق منه. جاهز للتثبيت.
+	Downloading {percent}%	جارٍ التنزيل {percent}%
+	Downloading… {percent}%	جارٍ التنزيل… {percent}%
+	Install and restart	ثبِّت وأعد التشغيل
+	Last checked: {when}	آخر تحقّق: {when}
+	New update {version}	تحديث جديد {version}
+	Not checked yet	لم يُتحقَّق بعد
+	PdfCraft was still open when the update began. Close every window and try again.	كان PdfCraft ما زال مفتوحًا حين بدأ التحديث. أغلق كل نوافذه ثم أعد المحاولة.
+	PdfCraft was updated to {version}.	حُدِّث PdfCraft إلى {version}.
+	Ready to install	جاهز للتثبيت
+	Save or close the documents with unsaved changes first. Updating closes PdfCraft.	احفظ المستندات التي فيها تغييرات غير محفوظة أو أغلقها أولًا. التحديث يُغلق PdfCraft.
+	The download was cancelled.	أُلغي التنزيل.
+	The file that arrived doesn't match its checksum. It was deleted and nothing was installed. Try again.	الملف الذي وصل لا يطابق بصمته. حُذف ولم يُثبَّت شيء. أعد المحاولة.
+	The installer couldn't be saved to this disk. Make sure there is enough free space, then try again.	تعذّر حفظ المُثبِّت على هذا القرص. تأكّد من وجود مساحة كافية ثم أعد المحاولة.
+	The installer is larger than the release said, so the download was stopped and deleted.	المُثبِّت أكبر مما ذكره الإصدار، فأُوقف التنزيل وحُذف.
+	The installer no longer matched its checksum, so it was not run.	لم يعد المُثبِّت مطابقًا لبصمته، فلم يُشغَّل.
+	The installer stopped with code {code}.	توقّف المُثبِّت بالرمز {code}.
+	The latest release on the update channel has no installer.	لا يوجد ملف تثبيت في آخر إصدار على قناة التحديث.
+	The release information on the update channel isn't understood. Nothing was downloaded.	بيانات الإصدار على قناة التحديث غير مفهومة. لم يُنزَّل شيء.
+	The release isn't newer than the version you have, so it won't be installed.	الإصدار ليس أحدث من نسختك الحالية، فلن يُثبَّت.
+	The update couldn't be started. Nothing changed. Try again.	تعذّر بدء التحديث. لم يتغيّر شيء. أعد المحاولة.
+	The update did not complete. The version you have is unchanged.	لم يكتمل التحديث. نسختك الحالية كما هي.
+	The update helper never ran. Security software or a Windows policy may have blocked it.	لم تعمل أداة التحديث. ربما منعها برنامج حماية أو سياسة في Windows.
+	The update token has expired or was revoked, so no copy can check for updates. The owner needs to create a new token and publish a build made with it.	انتهت صلاحية رمز التحديث أو أُلغي، فلا تستطيع أي نسخة التحقّق من التحديثات. على المالك إنشاء رمز جديد ونشر نسخة مبنيّة به.
+	This copy can't update itself. Open the release page to get the new version.	هذه النسخة لا تحدّث نفسها. افتح صفحة الإصدار للحصول على النسخة الجديدة.
+	To install, PdfCraft closes, updates and opens again by itself. Save your work first, and don't shut the computer down while it updates.	عند التثبيت يُغلَق PdfCraft ويُحدَّث ثم يُفتح من تلقاء نفسه. احفظ عملك أولًا، ولا تُطفئ الجهاز أثناء التحديث.
+	Update from {from} to {to}	التحديث من {from} إلى {to}
+	Updates stopped	التحديثات متوقّفة
+	Updates	التحديثات
+	What changed	أبرز ما تغيّر
+	You're on the latest version.	أنت على أحدث نسخة.
+	{done} of {total} MB	{done} من {total} ميغابايت
+	{from} → {to}	{from} ← {to}
+	{rate} MB/s	{rate} م.ب/ث
+	{size} MB	{size} ميغابايت
+@plural	{n} minute ago|{n} minutes ago	قبل {n} دقيقة|قبل دقيقة ({n})|قبل دقيقتين ({n})|قبل {n} دقائق|قبل {n} دقيقة|قبل {n} دقيقة
+@plural	{n} hour ago|{n} hours ago	قبل {n} ساعة|قبل ساعة ({n})|قبل ساعتين ({n})|قبل {n} ساعات|قبل {n} ساعة|قبل {n} ساعة
+@plural	{n} day ago|{n} days ago	قبل {n} يوم|قبل يوم ({n})|قبل يومين ({n})|قبل {n} أيام|قبل {n} يومًا|قبل {n} يوم
+@plural	about {n} minute left|about {n} minutes left	يبقى نحو {n} دقيقة|يبقى نحو دقيقة ({n})|يبقى نحو دقيقتين ({n})|يبقى نحو {n} دقائق|يبقى نحو {n} دقيقة|يبقى نحو {n} دقيقة
+	Attach a picture of the window	أرفق صورة للنافذة
+	Hide	إخفاء
+	Mark the problem	حدّد المشكلة
+	Clear marks	امسح العلامات
+	Drag over the picture to hide something or to mark the problem. Right-click a mark to remove it.	اسحب على الصورة لإخفاء شيء أو لتحديد المشكلة. انقر بالزر الأيمن على علامة لإزالتها.
+	Picture of the window	صورة النافذة
+	Only what is above is sent, to PDF Sage's team, the picture as you see it here. It shows what was on the screen, a document's name and pages included: black out anything private. Nothing else from your documents, no paths.	لا يُرسل إلا ما في الأعلى إلى فريق PDF Sage، ومعه الصورة كما تراها هنا. تُظهر الصورة ما كان على الشاشة، ومنه اسم المستند وصفحاته: أخفِ بالأسود كل ما هو خاص. لا شيء غير ذلك من مستنداتك، ولا مسارات.
+	Choose a tool for each slot from its list, or right-click a tool in All tools, then Add to the ring.	اختر أداة لكل خانة من قائمتها، أو انقر أداة في «كلّ الأدوات» بالزرّ الأيمن ثم «إضافة إلى الحلقة».
+	Fewer slots	خانات أقل
+	More slots	خانات أكثر
+	({min} to {max} tools)	(من {min} إلى {max} أدوات)
+	Tap an object to keep only it; tap it again to let it go.	انقر عنصراً لإبقائه وحده، وانقره مرة أخرى لإلغاء اختياره.
+	Tap an object on the first picture to keep only it; tap it again to let it go.	انقر عنصراً في الصورة الأولى لإبقائه وحده، وانقره مرة أخرى لإلغاء اختياره.
+	Keep everything that was found	أبقِ كل ما وُجد
+	Echo wasn't sure of this portrait's cut, so the general background removal made it. Check it before saving.	لم يكن ايكو واثقاً من قصّ هذه الصورة الشخصية، فقصّها محرك إزالة الخلفية العام. راجعها قبل الحفظ.
+	Use signature {n}	استخدام التوقيع {n}
+	Change this signature	تغيير هذا التوقيع
+	Remove this signature	إزالة هذا التوقيع
+	Add another signature ({n} of {max})	إضافة توقيع آخر، {n} من {max}
+	Up to {max} signatures	حتى {max} تواقيع
+	In use	المستخدم
+	Not ready	غير جاهز
+	Items marked Not ready don't work yet.	العناصر الموسومة بـ«غير جاهز» لا تعمل بعد.
+	Page transitions…	انتقالات الصفحات…
+	They play when the document is shown full screen.	تظهر حين يُعرض المستند بملء الشاشة.
+	Effect:	التأثير:
+	Remove the transition	إزالة الانتقال
+	Go to the next page after	الانتقال إلى الصفحة التالية بعد
+	No effect	بلا تأثير
+	Left to right	من اليسار إلى اليمين
+	Bottom to top	من الأسفل إلى الأعلى
+	Right to left	من اليمين إلى اليسار
+	Top to bottom	من الأعلى إلى الأسفل
+	Fade	تلاشٍ
+	Dissolve	ذوبان
+	Wipe	مسح
+	Push	دفع
+	Cover	تغطية
+	Uncover	كشف
+	Blinds	ستائر
+	Glitter	تلألؤ
+	Fly	طيران
+	Duration:	المدة:
+	seconds	ثانية
+	Experimental	تجريبي
+# PDF Sage: the task rail on the tools pane.
+	Fill & sign	تعبئة وتوقيع
+	Find in this file	ابحث في هذا الملف
+	Fit the page	لائم الصفحة
+	Fit the width	لائم العرض
+	Two pages side by side	صفحتان متجاورتان
+	Add a bookmark	أضف علامة مرجعية
+	Full screen	ملء الشاشة
+	Strike out	اشطب
+	All comments	كل التعليقات
+	Fill in and sign	املأ ووقّع
+	Tick	علامة صح
+	My signature	توقيعي
+	My initials	أحرفي الأولى
+	Sign with a certificate	وقّع بشهادة رقمية
+	Change text and pictures	عدّل النص والصور
+	Add a picture	أضف صورة
+	Arrange pages	رتّب الصفحات
+	Split the file	قسّم الملف
+	Join files	ادمج ملفات
+	To Word	إلى Word
+	To Excel	إلى Excel
+	To PowerPoint	إلى PowerPoint
+	To a picture	إلى صورة
+	Make the file smaller	صغّر حجم الملف
+	Make a scan searchable	اجعل المسح قابلاً للبحث
+	Lock with a password	اقفل بكلمة مرور
+# PDF Sage: task sections, the Pictures task and the Image tools steps.
+	Pictures	الصور
+	Split and join	قسّم وادمج
+	From this PDF	من هذا الملف
+	Into a PDF	إلى ملف PDF
+	Get it ready	جهّزه
+	To plain text	إلى نص عادي
+	To a web page	إلى صفحة ويب
+	From another file	من ملف آخر
+	From several files	من عدة ملفات
+	Pictures on this computer	صور على هذا الجهاز
+	Change format, size or background	غيّر الصيغة أو الحجم أو الخلفية
+	A page as a picture	صفحة كصورة
+	Every picture in the file	كل الصور في الملف
+	Pictures into a PDF	صور إلى ملف PDF
+	Add a picture to a page	أضف صورة إلى صفحة
+	Add pictures	أضف الصور
+	Add images or drop them here. The originals are never changed.	أضف الصور أو أفلتها هنا. لا تتغير الأصلية أبداً.
+	Choose what to do	اختر ما تريد
+	Change the format or the size, or remove the background.	غيّر الصيغة أو الحجم، أو أزل الخلفية.
+	Save the copies	احفظ النسخ
+	Pick a folder; each copy gets a new name there.	اختر مجلداً؛ كل نسخة تأخذ اسماً جديداً فيه.
+# PDF Sage: the Tools panel switch in the toolbar.
+	Show or hide the Tools panel ({key})	إظهار لوحة الأدوات أو إخفاؤها ({key})
+	Convert to other formats	التحويل إلى صيغ أخرى
+	Make a new PDF	إنشاء ملف PDF جديد
+	Join files into one	دمج الملفات في ملف واحد
+	Comment and highlight	التعليق والتظليل
+	Make scans searchable	جعل الصفحات الممسوحة قابلة للبحث
+	Black out information	حجب المعلومات
+	Build a fillable form	إنشاء نموذج قابل للتعبئة
+	Get ready for printing	التجهيز للطباعة
+	Measure lengths and areas	قياس الأطوال والمساحات
+	Compare two files	مقارنة ملفين
+	Run ready-made steps	تشغيل خطوات جاهزة
+	Make it work with screen readers	التهيئة لقارئات الشاشة
+	Save for archiving	الحفظ للأرشفة
+	Built-in search index	فهرس بحث مدمج
+	Create and join	الإنشاء والدمج
+	Change what is on the page	تغيير محتوى الصفحة
+	Convert and shrink	التحويل والتصغير
+	Protect and hide	الحماية والإخفاء
+	For experts	للمتخصصين
+	What do you want to do?	ماذا تريد أن تفعل؟
+	Find, zoom and read comfortably	ابحث وكبّر واقرأ براحة
+	Highlight, note and draw	ظلّل ودوّن وارسم
+	Type, tick and sign forms	اكتب وأشّر ووقّع النماذج
+	Arrange, split and join	رتّب وقسّم وادمج
+	To Word, Excel, smaller or searchable	إلى Word أو Excel، أصغر أو قابل للبحث
+	Formats, backgrounds and pictures in PDFs	الصيغ والخلفيات والصور في ملفات PDF
